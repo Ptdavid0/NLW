@@ -61,3 +61,7 @@ O projeto tem como finalidade a **conexão** entre **locais de coleta de resídu
 > 3. npm start
 > 4. bra o aplicativo Expo no seu dispositivo móvel
 > 5. Escaneie o QR Code
+
+## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo **[LICENSE](https://github.com/Ptdavid0/NLW/blob/master/LICENSE)** para mais detalhes.
+
