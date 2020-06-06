@@ -41,23 +41,23 @@ O projeto tem como finalidade a **conexão** entre **locais de coleta de resídu
 
 #### **Backend**
 
-> 1 - $cd server
-> 2 - $npm install
-> 3 - $npm run migrate:latest (criação do banco de dados)
-> 4 - $npm run migrate:seed (populando a base de dados com itens estatáticos)
-> 5 - $npm run dev
+> 1. $cd server
+> 2. $npm install
+> 3. $npm run migrate:latest (criação do banco de dados)
+> 4. $npm run migrate:seed (populando a base de dados com itens estatáticos)
+> 5. $npm run dev
 
 ####  **Frontend**
 
-> 1 - $cd web
-> 2 - $npm install
-> 3 - $npm start
-> 4 - Caso a pagina não abra automaticamente, acesse, no seu navegador, localhost:3000
+> 1. $cd web
+> 2. $npm install
+> 3. $npm start
+> 4. Caso a pagina não abra automaticamente, acesse, no seu navegador, localhost:3000
 
 #### **Mobile**
 
-> 1 - $cd mobile
-> 2 - $npm install
-> 3 - $npm start
-> 4 - Abra o aplicativo Expo no seu dispositivo móvel
-> 5 - Escaneie o QR Code
+> 1. $cd mobile
+> 2. $npm install
+> 3. npm start
+> 4. bra o aplicativo Expo no seu dispositivo móvel
+> 5. Escaneie o QR Code
