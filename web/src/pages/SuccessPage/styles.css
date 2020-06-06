@@ -1,0 +1,16 @@
+#success-message{
+  background-color: rgb(39, 39, 39);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+
+}
+.title{
+  color: white;
+  font-size: 3vw;
+  margin-top: 1vw;
+}
+
